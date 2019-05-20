@@ -8,7 +8,6 @@ prosieben01.webtrekk.net
 seccdn-gl.imrworldwide.com
 probe.yieldlab.net
 imasdk.googleapis.com
-cloudfront.net
 aax-eu.amazon-adsystem.com
 ad.71i.de
 de.ioam.de
@@ -20,9 +19,6 @@ dbg01.meetrics.net
 rum-fe-alb-prod-1601634189.eu-west-1.elb.amazonaws.com
 ytimg.l.google.com
 staticxx.facebook.com
-dv.phncdn.com
-vip0x08e.ssl.rncdn5.com
-cs851.wpc.rncdn4.com
 googleadapis.l.google.com
 vast.guppy.site
 evtubescms.phncdn.com.lds.rncdn7.com
@@ -30,9 +26,9 @@ manifest.googlevideo.com
 connect.facebook.net
 rum.7tv.de
 s418.mxcdn.net
-i3-img.prosieben.de
-3-img.prosieben.de
 datalayer.p7s1.io
 i3-img.7tv.de
+3-img.prosieben.de
+ads.yemonisoni.com
 #Prosieben: Video cannot be played:
 #ac-vod-001.vod.p7s1video.net

@@ -1,6 +1,6 @@
 (^|\.)research\.de\.com$
 (^|\.)de-gmtdmp\.mookie1\.com$
 (^|\.)player-feedback\.p7s1video\.net$
-(^|\.)cloudfront\.net$
 (^|\.)metric\.gstatic\.com$
-r([1-9]|[1-2][0-9])(\.|---)sn-(\w*(\S{0}|[-]\S*[^e]))\.googlevideo\.com
+(^|\.)ioam\.de$
+#r([1-9]|[1-2][0-9])(\.|---)sn-(\w*(\S{0}|[-]\S*[^e]))\.googlevideo\.com
